@@ -17,3 +17,9 @@ body {
   justify-content: center;
   align-items: center;
 }
+
+
+.quote-container{
+    width: auto;
+    max-width: 900px;
+}
